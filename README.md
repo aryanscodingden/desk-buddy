@@ -45,4 +45,4 @@ The firmware is written in C++ and will be edited/deployed from Arduino IDE.
 | 8 | 3D Print | ₹1,376 ($14.08) | https://www.amazon.in/3IDEA-Bambu-Translucent-Printing-Filament/dp/B0GT9GW2H7 |
 | 9 | PCB | ₹900.00 ($9.54) | robu.in |
 
-| | **TOTAL** | **₹4,156 ($44.02)** | |
+TOTAL COST: ₹4,156 ($44.02)
