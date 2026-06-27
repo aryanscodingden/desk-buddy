@@ -1,7 +1,8 @@
 ## Desk Buddy
 A smart buddy that sits on your desk & can control your room. It can sense the temprature and turn on the AC or Fan depneding on how hot it is! 
 
-<img width="427" height="601" alt="image" src="https://github.com/user-attachments/assets/694c0fe0-46bc-442a-bca9-d208cd5db8f1" />
+<img width="1410" height="2000" alt="Desk Buddy A5" src="https://github.com/user-attachments/assets/522ffbf7-1623-4800-826a-5d327f14d4a7" />
+
 <br>
 
 # Schematic 
