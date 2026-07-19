@@ -1,6 +1,6 @@
 ## Desk Buddy
 A smart buddy that sits on your desk & can control your room. It can sense the temprature and turn on the AC or Fan depneding on how hot it is! 
-
+My main motivation to build this is cus I wanted to control all my appliences with a phyiscal device & also wanted to experiment w/ a IR Blaster. 
 <img width="1410" height="2000" alt="Desk Buddy A5" src="https://github.com/user-attachments/assets/522ffbf7-1623-4800-826a-5d327f14d4a7" />
 
 <br>
