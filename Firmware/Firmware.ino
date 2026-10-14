@@ -165,7 +165,7 @@ void sendAcRaw(bool powerOn) {
 
 void toggleAc() {
   acOn = !acOn;
-  sendAcRaw(acOn);
+  sendAcRaw(acOn); 
 }
 
 void configureBme680() {
